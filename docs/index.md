@@ -2,7 +2,7 @@
 
 Hi, I'm Patrick Sanzo, a software developer, having lived and worked in several countries and areas (Digital TV, Repairment Company Management, Banks, etc).
 * * *
-I'm currently working at [Mirada Plc](http://www.mirada.tv), a company providing an array of products and services for Digital TV Operators and Broadcasters with offices across Europe, Asia & Americas. In this company, I develop Java/Spring backend applications, using technologies such as the Spring suite (Boot, Data,...), Python and the almighty bash script language.
+I'm currently working at [Mirada Plc](http://www.mirada.tv), a company providing an array of products and services for Digital TV Operators and Broadcasters with offices across Europe, Asia & Americas. In this company, I'm currently working in a Big Data project, dealing with info from devices playing Live TV or VoD.
 
 ## Experience
 
