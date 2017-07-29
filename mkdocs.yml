@@ -1,5 +1,4 @@
 theme_dir: cinder
 site_name: Patrick's CV
-#pages:
-    #education: education.md
-    #resume: resume.md
+google-analytics: ['UA-93920193-1', 'patrick.sanzo.es']
+
