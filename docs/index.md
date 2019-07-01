@@ -1,10 +1,15 @@
 # Patrick's Résumé
 
-Hi, I'm Patrick Sanzo, a software developer, having lived and worked in several countries and areas (Digital TV, Repairment Company Management, Banks, etc).
+Hi, I'm Patrick Sanzo, a software developer, having lived and worked in several countries and areas (Mobile parking, Digital TV, Repairment Company Management, Banks, etc).
 * * *
-I'm currently working at [Mirada Plc](http://www.mirada.tv), a company providing an array of products and services for Digital TV Operators and Broadcasters with offices across Europe, Asia & Americas. In this company, I'm currently working in a Big Data project, dealing with info from devices playing Live TV or VoD.
+I'm currently working as a backend software developer at [Sunhill technologies GmbH](https://www.sunhill-technologies.com/), a company providing an array of products and services for digital mobile parking and charging applications across Europe. The main product of our company is the [Paybyphone app](https://paybyphone-parken.de/) (formerly travipay)
 
 ## Experience
+
+### Software Developer @ **Sunhill Technologiese GmbH**
+#### _July 2018 - Present_
+Part of the onstreet team developing the backend software used to provide services for [internal](https://paybyphone-parken.de/) and external mobile applications forr digital parking
+Technologies and services used include Dropwizard, Oracle DB, Rundeck, Splunk, Mavena, Jenkins and Gitlab
 
 ### Software Developer and Support Engineer @ **Mirada plc, Madrid**
 #### _December 2015 - Present_
