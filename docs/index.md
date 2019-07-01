@@ -12,7 +12,7 @@ Part of the onstreet team developing the backend software used to provide servic
 Technologies and services used include Dropwizard, Oracle DB, Rundeck, Splunk, Mavena, Jenkins and Gitlab
 
 ### Software Developer and Support Engineer @ **Mirada plc, Madrid**
-#### _December 2015 - Present_
+#### _December 2015 - July 2018_
 Part of the team developing a big data system for device (STB, mobile devices) playback information acquisition. Stack consists of Apache Drill, Alluxio, Clojure and Java/Spring Boot.  Infrastructure software used is AWS EC2, AWS Kinesis, AWS S3, AWS ECR/ECS, AWS Cloudwatch, managed by Kubernetes with Docker containers
 
 Previously, backend development with Java/Spring suite for an ETL consisting metadata media acquisition and transformation from several leading media providers.  Development of new backend microservices and enhancement of existing ones.
