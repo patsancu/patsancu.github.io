@@ -47,7 +47,8 @@ Java EE and Spring related programming. Other technologies used are JSP, Spring 
 Internship in the IT team of the central austrian branch of Banco Santander,one of the leading spanish banking groups, with a strong expanding international presence. Duties included: support solving technical incidents and automatically building projects with Jenkins. Most programming was done on the GGTS environment, using Java, but also some php and Javascript.
 
 ***
-### **Mainbricks, SL, Madrid**
+### **Mainbricks, SL**
+#### *Madrid, Spain*
 #### Software developer
 #### _July 2013- September 2013_
 Design and coding of an restaurant-oriented Android app.
