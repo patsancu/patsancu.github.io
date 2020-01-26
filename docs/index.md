@@ -41,7 +41,7 @@ Java EE and Spring related programming. Other technologies used are JSP, Spring 
 
 ***
 ### **Santander Consumer Bank**
-#### Vienna, Austria
+#### *Vienna, Austria*
 #### Software developer intern
 #### _October 2013- April 2014_
 Internship in the IT team of the central austrian branch of Banco Santander,one of the leading spanish banking groups, with a strong expanding international presence. Duties included: support solving technical incidents and automatically building projects with Jenkins. Most programming was done on the GGTS environment, using Java, but also some php and Javascript.
