@@ -1,4 +1,4 @@
-theme: cinder
+theme: mkdocs
 site_name: Patrick's CV
 google-analytics: ['UA-93920193-1', 'patrick.sanzo.es']
 remote_branch: master
