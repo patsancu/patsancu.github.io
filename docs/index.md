@@ -6,6 +6,16 @@ I'm currently working as a backend software developer at [sunhill technologies G
 
 ## Experience
 
+### **LTN Global (formerly make.tv)**
+#### *Cologne/Köln, Germany*
+#### Software Developer
+#### _March 2020 - Present_
+
+* Part of the Europe backend team for the cool [livevidecloud](https://www.livevideocloud.com) SaaS.
+* On our way to a microservice oriented architecture, using java/kotlin, k8s, grpc and custom tools.
+* All while using leading cloud providers ecosystems and CI/CD builds
+* As a side note, I also had my first experience managing a small project.
+
 ### **sunhill technologies GmbH | Volkswagen Financial Services AG**
 #### *Erlangen, Germany*
 #### Software Developer
