@@ -10,7 +10,7 @@ I'm currently working as a backend software developer at [sunhill technologies G
 #### *Erlangen, Germany*
 #### Software Developer
 #### _July 2018 - Present_
-Part of the onstreet team developing the backend software used to provide services for [internal](https://paybyphone-parken.de/) and external mobile applications forr digital parking  
+Part of the onstreet team developing the backend software used to provide services for [internal](https://paybyphone-parken.de/) and external mobile applications forr digital parking
 Technologies and services used include Dropwizard, Oracle DB, Rundeck, Splunk, Maven, Jenkins and Gitlab
 
 ***
