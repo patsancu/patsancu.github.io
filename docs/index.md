@@ -2,7 +2,7 @@
 
 Hi, I'm Patrick Sanzo, a software developer, having lived in several countries and worked in different areas (Mobile parking, Digital TV, Repairment Company Management, Banks, etc).
 * * *
-I'm currently working as a backend software developer at [sunhill technologies GmbH | Volkswagen Financial Services AG](https://www.sunhill-technologies.com/), a company providing an array of products and services for digital mobile parking and charging applications across Europe. The main product of our company is the [Paybyphone app](https://paybyphone-parken.de/) (formerly travipay)
+I'm currently working as a backend software developer at [https://www.ltnglobal.com](LTN Global), a company providing an array of products and services for the digital media and streaming industry. The product I'm currently working on is the awesome [Live Video Cloud](https://www.livevideocloud.com/)
 
 ## Experience
 
